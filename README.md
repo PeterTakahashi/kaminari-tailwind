@@ -10,8 +10,8 @@ kaminari-tailwind is a Ruby gem that provides a Tailwind CSS–based pagination 
 
 ## ScreenShot
 
-![ja](docs/img/ja.png)
-![en](docs/img/en.png)
+<img src="docs/img/ja.png" width="300px" />
+<img src="docs/img/en.png" width="300px" />
 
 ## Installation
 
